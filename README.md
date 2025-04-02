@@ -1,3 +1,5 @@
+from reading an article on IFLScience (May 22, 2024 - Scientists Have Discovered A New Way To Count (And It's Actually Really Important)
+
 # A Python implementation of the CVM Algorithm for Counting Distinct Elements
 
 This library implements the algorithm described in
